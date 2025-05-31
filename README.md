@@ -1,2 +1,2 @@
 # intern
-This is my Git Repository.
+This is my Repository.
